@@ -3,4 +3,4 @@
 from Tkinter import *
 
 def ban:
-	return lol
+	return 0
