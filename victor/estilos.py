@@ -1,1 +1,0 @@
-print 'Mikito rata'
